@@ -1,0 +1,4 @@
+Flux Rope Radius 1.392033 Mm
+Flux Rope Center Height 4.668699 Mm
+Flux Rope Center Position 205.652069, 237.187515, 11.671746
+Flux Rope Center Normal 0.316479, -0.948476, 0.015284
